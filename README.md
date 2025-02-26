@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [my repos](https://github.com/CHANDANKUMAR-tech?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repos](https://github.com/ChandanKumarHS?tab=repositories)
 
 - 📫 How to reach me **sschandan2004@gmail.com**
 
